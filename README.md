@@ -13,3 +13,4 @@ Cada contexto terá uma branch dedicada.
 ### Spring
 
 1. [restful_web_service_hello_world](https://spring.io/guides/gs/rest-service)
+2. [scheduling_tasks](https://spring.io/guides/gs/scheduling-tasks)
